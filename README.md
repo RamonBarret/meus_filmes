@@ -6,7 +6,7 @@
 
 Projeto desevolvido como resultado dos conhecimentos obtidos no evento Next Level Week da Rocketseat.
 
-[🔗 Clique aqui para acessar](https://ramonbarret.github.io/nlw_mymovies/)
+[🔗 Clique aqui para acessar](https://ramonbarret.github.io/meus_filmes.git/)
 
 ## 🛠 Tecnologias
 
