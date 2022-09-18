@@ -6,7 +6,7 @@
 
 Projeto desevolvido como resultado dos conhecimentos obtidos no evento Next Level Week da Rocketseat.
 
-[🔗 Clique aqui para acessar](https://ramonbarret.github.io/nlw_explorer/nlw_explorer/)
+[🔗 Clique aqui para acessar](https://ramonbarret.github.io/nlw_explorer/)
 
 ## 🛠 Tecnologias
 
