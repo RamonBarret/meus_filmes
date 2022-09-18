@@ -2,7 +2,7 @@
 
 > Trilha Explorer
 
-![preview](./.github/preview_mymovies.png)
+![preview_movies](https://user-images.githubusercontent.com/105830248/190930351-58db6383-c20d-406e-802a-ccd1cd7f8402.png)
 
 Projeto desevolvido como resultado dos conhecimentos obtidos no evento Next Level Week da Rocketseat.
 
